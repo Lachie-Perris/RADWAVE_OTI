@@ -1,7 +1,15 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# RADWave: Oython code for ocean surface wave analysis by satellite radar altimeter
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Satellite radar altimeters can determine significant wave height and wind speed (Young et al., 2011). Since the first launch of the GEOSAT (GEOdetic SATellite) altimeter in 1985, there has been almost continuous data collection. One can calculate wave conditions from these measurements, namely wave height, period, and power (Young et al., 2018). Analysis of this long-term, high-resolution spatiotemporal record brings new insights into inter-annual, seasonal, and decadal variations of regional wave climates.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Here we use RADwave to analyse the ocean surface offshore of One Tree Island in the southern Great Barrier Reef.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+For more details see: https://radwave.readthedocs.io/en/latest/
+
+Smith, Courtney, Ana Vila-Concejo, and T. B. Salles. 2020. “RADWave: Python Code for Ocean Surface Wave Analysis by Satellite Radar Altimeter.” Journal of Open Source Software 1(5):46. doi: https://doi.org/10.21105/joss.02083.
+
+Smith, Courtney, Tristan Salles, and Ana Vila-Concejo. 2022. “Offshore Wave Climate of the Great Barrier Reef.” In Review (0123456789). doi: 10.1007/s00338-023-02377-5.
+
+Young, I. R., Zieger, S. & Babanin, A. V. - Global trends in wind speed and wave height. Science 332(6028), p451–455, 2011.
+
+Young, I. R. & Donelan, M. - On the determination of global ocean wind and wave climate from satellite observations. Remote Sensing of Environment 215, 228–241, 2018.
