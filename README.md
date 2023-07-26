@@ -2,7 +2,7 @@
 
 Satellite radar altimeters can determine significant wave height and wind speed (Young et al., 2011). Since the first launch of the GEOSAT (GEOdetic SATellite) altimeter in 1985, there has been almost continuous data collection. One can calculate wave conditions from these measurements, namely wave height, period, and power (Young et al., 2018). Analysis of this long-term, high-resolution spatiotemporal record brings new insights into inter-annual, seasonal, and decadal variations of regional wave climates.
 
-Here we use RADwave to analyse the ocean surface offshore of One Tree Island in the southern Great Barrier Reef.
+Here we use RADwave (Smith et al., 2022) to analyse the ocean surface offshore of One Tree Island in the southern Great Barrier Reef.
 
 For more details see: https://radwave.readthedocs.io/en/latest/
 
