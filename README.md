@@ -4,7 +4,7 @@ Satellite radar altimeters can determine significant wave height and wind speed 
 
 Here we use RADwave (Smith et al., 2022) to analyse the ocean surface offshore of One Tree Island in the southern Great Barrier Reef.
 
-For more details see: https://radwave.readthedocs.io/en/latest/
+For more details see: https://radwave.readthedocs.io/en/latest/ and https://github.com/CourtneySmith32/RADWave
 
 Smith, Courtney, Ana Vila-Concejo, and T. B. Salles. 2020. “RADWave: Python Code for Ocean Surface Wave Analysis by Satellite Radar Altimeter.” Journal of Open Source Software 1(5):46. doi: https://doi.org/10.21105/joss.02083.
 
